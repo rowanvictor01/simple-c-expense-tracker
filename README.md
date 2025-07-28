@@ -58,7 +58,7 @@ gcc main.c -o main -lm
 
 ---
 
-🧠 Notes
+## 🧠 Notes
 
 This project is part of my journey to get better at systems-level programming and to understand how memory, input, and program flow works at a low level. The goal is to continuously build upon this base with more advanced features while learning good coding practices in C.
 
